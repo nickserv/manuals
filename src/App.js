@@ -8,7 +8,7 @@ function App() {
         <Fragment key={heading}>
           <h1>{heading}</h1>
           <ul>
-            {Object.entries(games).map(([game, { manual, thumbnail }]) => (
+            {games.map(({ game, manual, thumbnail }) => (
               <li key={game}>
                 <a href={manual}>
                   {game}
