@@ -1,0 +1,37 @@
+{
+  "Nintendo Entertainment System": {
+    "Balloon Fight™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAARE.pdf",
+    "Donkey Kong™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAEE.pdf",
+    "Donkey Kong Jr.™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAFE.pdf",
+    "Double Dragon II: The Revenge": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NACHE.pdf",
+    "Dr. Mario™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAXE.pdf",
+    "Excitebike™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAHE.pdf",
+    "Ghosts'n Goblins™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABCE.pdf",
+    "Gradius": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABRE.pdf",
+    "Ice Climber™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAUE.pdf",
+    "Kid Icarus™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAVE.pdf",
+    "Kirby's Adventure™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAPE.pdf",
+    "Mario Bros.™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAPE.pdf",
+    "Metroid™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAQE.pdf",
+    "Ninja Gaiden": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NACBE.pdf",
+    "Punch-Out!!™ Featuring Mr. Dream": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAATE.pdf",
+    "StarTropics™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAZE.pdf",
+    "Super Mario Bros.™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAAE.pdf",
+    "Super Mario Bros.™ 2": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAADE.pdf",
+    "Super Mario Bros.™ 3": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAACE.pdf",
+    "Tecmo Bowl": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NACDE.pdf",
+    "The Legend of Zelda™": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAANE.pdf",
+    "Zelda II: The Adventure of Link": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAASE.pdf"
+  },
+  "Super Nintendo Entertainment System": {
+    "F-ZERO™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAABE.pdf",
+    "Kirby's Dream Course™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAKE.pdf",
+    "Star Fox™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SADGE.pdf",
+    "Super Ghouls'n Ghosts™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SABDE.pdf",
+    "Super Mario Kart™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAFE.pdf",
+    "Super Mario World™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAAE.pdf",
+    "Super Mario World™ 2: Yoshi's Island™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SADJE.pdf",
+    "Super Metroid™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAHE.pdf",
+    "The Legend of Zelda™: A Link to the Past™": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAEE.pdf"
+  }
+}
