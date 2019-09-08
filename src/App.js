@@ -1,11 +1,11 @@
-import React from "react";
+import React, { Fragment } from "react";
 import manuals from "./manuals";
 
 function App() {
   return (
     <>
       {Object.entries(manuals).map(([heading, games]) => (
-        <>
+        <Fragment key={heading}>
           <h1>{heading}</h1>
           <ul>
             {Object.entries(games).map(([game, { manual, thumbnail }]) => (
@@ -18,7 +18,7 @@ function App() {
               </li>
             ))}
           </ul>
-        </>
+        </Fragment>
       ))}
     </>
   );
