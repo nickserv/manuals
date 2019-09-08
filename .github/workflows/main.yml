@@ -10,8 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@ghtoken
+      uses: JamesIves/github-pages-deploy-action@2.0.1
       env:
         BUILD_SCRIPT: yarn && yarn build
         BRANCH: gh-pages
         FOLDER: build
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
