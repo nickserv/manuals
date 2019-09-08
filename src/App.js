@@ -8,9 +8,13 @@ function App() {
         <>
           <h1>{heading}</h1>
           <ul>
-            {Object.entries(games).map(([game, manual]) => (
+            {Object.entries(games).map(([game, { manual, thumbnail }]) => (
               <li key={game}>
-                <a href={manual}>{game}</a>
+                <a href={manual}>
+                  {game}
+                  <br />
+                  <img src={thumbnail} alt="" />
+                </a>
               </li>
             ))}
           </ul>
