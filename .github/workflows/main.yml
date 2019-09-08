@@ -1,0 +1,17 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@ghtoken
+      env:
+        BUILD_SCRIPT: yarn && yarn build
+        BRANCH: gh-pages
+        FOLDER: build
