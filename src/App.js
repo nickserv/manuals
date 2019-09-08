@@ -1,5 +1,6 @@
 import React, { Fragment } from "react";
 import manuals from "./manuals";
+import "./App.css";
 
 function App() {
   return (
