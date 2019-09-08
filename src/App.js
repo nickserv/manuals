@@ -4,20 +4,19 @@ import manuals from "./manuals";
 function App() {
   return (
     <>
+      <h1>Manuals</h1>
       {Object.entries(manuals).map(([heading, games]) => (
         <Fragment key={heading}>
-          <h1>{heading}</h1>
-          <ul>
+          <h2>{heading}</h2>
+          <div className="collection">
             {games.map(({ game, manual, thumbnail }) => (
-              <li key={game}>
-                <a href={manual}>
-                  {game}
-                  <br />
-                  <img src={thumbnail} alt="" />
-                </a>
-              </li>
+              <a key={game} href={manual}>
+                {game}
+                <br />
+                <img src={thumbnail} alt="" />
+              </a>
             ))}
-          </ul>
+          </div>
         </Fragment>
       ))}
     </>
