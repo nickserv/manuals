@@ -12,3 +12,8 @@
   flex-wrap: wrap;
   line-height: 0;
 }
+
+.collection > * {
+  margin-bottom: 1em;
+  margin-right: 1em;
+}
