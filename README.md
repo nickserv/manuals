@@ -1,5 +1,7 @@
 # Manuals
 
+Easily access original print manuals for [NES and SNES games included with Nintendo Switch Online](https://www.nintendo.com/switch/online-service/nes/).
+
 ## Sources
 
 - [NES Classic Edition Manuals](https://www.nintendo.co.jp/clv/manuals/en/index.html)
