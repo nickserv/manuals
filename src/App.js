@@ -24,6 +24,16 @@ function App() {
           </div>
         </Fragment>
       ))}
+      <footer>
+        <p>
+          <small>
+            This is not affiliated with Nintendo. All manuals are provided by
+            Nintendo and are linked for informational purposes. When
+            contributing or distributing this software, please respect the
+            intellectual property of the original copyright holders.
+          </small>
+        </p>
+      </footer>
     </>
   );
 }
