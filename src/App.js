@@ -12,9 +12,7 @@ function App() {
           <div className="collection">
             {games.map(({ game, manual, thumbnail }) => (
               <a key={game} href={manual}>
-                {game}
-                <br />
-                <img src={thumbnail} alt="" />
+                <img src={thumbnail} alt={game} />
               </a>
             ))}
           </div>

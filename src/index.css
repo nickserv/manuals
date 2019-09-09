@@ -1,19 +1,8 @@
 body {
-  margin: 0;
+  margin: 1em;
   font-family: Lato;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #e60012;
   color: #fff;
-}
-
-h1,
-h2 {
-  font-weight: normal;
-}
-
-a {
-  color: #fff;
-  font-weight: bold;
-  text-decoration: none;
 }
