@@ -1,3 +1,12 @@
+.switch-online {
+  background-color: #fff;
+  border-radius: 2em;
+  color: #e60012;
+  font-weight: bold;
+  padding: 0.5em;
+  text-decoration: none;
+}
+
 .collection {
   display: flex;
   flex-wrap: wrap;
