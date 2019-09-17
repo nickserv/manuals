@@ -32,7 +32,8 @@
     "build": "react-scripts build",
     "test": "eslint src/*.ts{,x} scraper/*.ts && react-scripts test",
     "eject": "react-scripts eject",
-    "scrape": "ts-node --project scraper/tsconfig.json scraper"
+    "scrape": "ts-node --project scraper/tsconfig.json scraper",
+    "install": "yarn scrape"
   },
   "eslintConfig": {
     "extends": [
