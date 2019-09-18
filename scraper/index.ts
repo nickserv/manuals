@@ -63,9 +63,10 @@ async function executeScrapers(
 ): Promise<Record<string, Game[]>> {
   return Object.fromEntries(
     await Promise.all(
-      Object.entries(scrapers).map(([consoleName, scraper]) =>
-        Promise.all([consoleName, executeScraper(browser, scraper)])
-      )
+      Object.entries(scrapers).map(async ([consoleName, scraper]) => [
+        consoleName,
+        await executeScraper(browser, scraper)
+      ])
     )
   );
 }
