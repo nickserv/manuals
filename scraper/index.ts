@@ -52,9 +52,11 @@ const scrapers: Record<string, Scraper> = {
   }
 };
 
+const gotoOptions = { waitUntil: "domcontentloaded" } as const;
+
 async function executeScraper(browser: puppeteer.Browser, scraper: Scraper) {
   const page = await browser.newPage();
-  await page.goto(scraper.url);
+  await page.goto(scraper.url, gotoOptions);
   return sortGames(await scraper.execute(page));
 }
 
