@@ -1,17 +1,17 @@
 {
   "Nintendo Entertainment System": [
     {
-      "game": "Balloon Fight™",
+      "game": "Balloon Fight",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAARE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft01.jpg"
     },
     {
-      "game": "Donkey Kong™",
+      "game": "Donkey Kong",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAEE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft05.jpg"
     },
     {
-      "game": "Donkey Kong Jr.™",
+      "game": "Donkey Kong Jr.",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAFE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft06.jpg"
     },
@@ -21,17 +21,17 @@
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft07.jpg"
     },
     {
-      "game": "Dr. Mario™",
+      "game": "Dr. Mario",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAXE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft08.jpg"
     },
     {
-      "game": "Excitebike™",
+      "game": "Excitebike",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAHE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft09.jpg"
     },
     {
-      "game": "Ghosts'n Goblins™",
+      "game": "Ghosts 'n Goblins",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABCE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft12.jpg"
     },
@@ -41,27 +41,27 @@
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft13.jpg"
     },
     {
-      "game": "Ice Climber™",
+      "game": "Ice Climber",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAUE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft14.jpg"
     },
     {
-      "game": "Kid Icarus™",
+      "game": "Kid Icarus",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAVE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft15.jpg"
     },
     {
-      "game": "Kirby's Adventure™",
+      "game": "Kirby's Adventure",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAPE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft16.jpg"
     },
     {
-      "game": "Mario Bros.™",
-      "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAPE.pdf",
+      "game": "Mario Bros.",
+      "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAWE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft17.jpg"
     },
     {
-      "game": "Metroid™",
+      "game": "Metroid",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAQE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft19.jpg"
     },
@@ -71,27 +71,27 @@
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft20.jpg"
     },
     {
-      "game": "Punch-Out!!™ Featuring Mr. Dream",
+      "game": "Punch-Out!! Featuring Mr. Dream",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAATE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft22.jpg"
     },
     {
-      "game": "StarTropics™",
+      "game": "StarTropics",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAZE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft23.jpg"
     },
     {
-      "game": "Super Mario Bros.™",
+      "game": "Super Mario Bros.",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAAAE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft25.jpg"
     },
     {
-      "game": "Super Mario Bros.™ 2",
+      "game": "Super Mario Bros. 2",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAADE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft26.jpg"
     },
     {
-      "game": "Super Mario Bros.™ 3",
+      "game": "Super Mario Bros. 3",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAACE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft27.jpg"
     },
@@ -101,7 +101,7 @@
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft28.jpg"
     },
     {
-      "game": "The Legend of Zelda™",
+      "game": "The Legend of Zelda",
       "manual": "https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NAANE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clv/manuals/common/img/multi/soft29.jpg"
     },
@@ -113,47 +113,47 @@
   ],
   "Super Nintendo Entertainment System": [
     {
-      "game": "F-ZERO™",
+      "game": "F-Zero",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAABE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_fzero_2x.png"
     },
     {
-      "game": "Kirby's Dream Course™",
+      "game": "Kirby's Dream Course",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAKE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_kirbysdreamcourse_2x.png"
     },
     {
-      "game": "Star Fox™",
+      "game": "Star Fox",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SADGE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_starfox_2x.png"
     },
     {
-      "game": "Super Ghouls'n Ghosts™",
+      "game": "Super Ghouls 'n Ghosts",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SABDE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_supergholsnghosts_2x.png"
     },
     {
-      "game": "Super Mario Kart™",
+      "game": "Super Mario Kart",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAFE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_supermariokart_2x.png"
     },
     {
-      "game": "Super Mario World™",
+      "game": "Super Mario World",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAAE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_supermarioworld_2x.png"
     },
     {
-      "game": "Super Mario World™ 2: Yoshi's Island™",
+      "game": "Super Mario World 2: Yoshi's Island",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SADJE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_yoshisisland_2x.png"
     },
     {
-      "game": "Super Metroid™",
+      "game": "Super Metroid",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAHE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_supermetroid_2x.png"
     },
     {
-      "game": "The Legend of Zelda™: A Link to the Past™",
+      "game": "The Legend of Zelda: A Link to the Past",
       "manual": "https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SAAEE.pdf",
       "thumbnail": "https://www.nintendo.co.jp/clvs/manuals/common/img/pkg/pkg_zelda_2x.png"
     }
