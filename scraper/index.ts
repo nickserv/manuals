@@ -80,10 +80,12 @@ async function executeScrapers(
 
   try {
     const indentLevel = 2;
-    await fs.promises.writeFile(
-      "src/manuals.json",
-      JSON.stringify(await executeScrapers(browser), undefined, indentLevel)
+    const json = JSON.stringify(
+      await executeScrapers(browser),
+      undefined,
+      indentLevel
     );
+    await fs.promises.writeFile("src/manuals.json", `${json}\n`);
   } catch (error) {
     console.error(error);
   } finally {
