@@ -10,8 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - run: yarn && yarn test
-      env:
-        CI: true
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@2.0.1
       env:
