@@ -1,19 +1,21 @@
 name: Node CI
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v1
-    - run: yarn && yarn test
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@2.0.1
-      env:
-        BUILD_SCRIPT: yarn && yarn build
-        BRANCH: gh-pages
-        FOLDER: build
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    - uses: actions/checkout@v2
+    - run: yarn --frozen-lockfile
+    - run: yarn test
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+    - run: yarn build
+    - uses: JamesIves/github-pages-deploy-action@4.1.5
+      with:
+        branch: gh-pages
+        folder: build
