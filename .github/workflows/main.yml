@@ -6,18 +6,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - run: yarn --frozen-lockfile
-    - run: yarn test
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-    - uses: actions/checkout@v2
-    - run: yarn --frozen-lockfile
-    - run: yarn build
-    - uses: JamesIves/github-pages-deploy-action@4.1.5
-      with:
-        branch: gh-pages
-        folder: build
+      - uses: actions/checkout@v3
+      - run: yarn --frozen-lockfile
+      - run: yarn test
+      - run: yarn build
+      - uses: JamesIves/github-pages-deploy-action@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          branch: gh-pages
+          folder: build
